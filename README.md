@@ -1,2 +1,2 @@
 # WeatherApp
-Simple app to get weather conditions using API
+Simple React Native app to get weather conditions using API
